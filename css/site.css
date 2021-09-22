@@ -67,10 +67,10 @@ pre[class*="language-"] {
   word-wrap: break-word;
 }
 
-/* main > .container {
+main > .container {
   padding: 60px 15px 0;
   margin-bottom: 5rem;
-} */
+}
 
 .contact-email {
   text-decoration: none;
